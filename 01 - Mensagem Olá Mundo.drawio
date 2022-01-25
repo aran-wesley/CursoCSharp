@@ -1,26 +1,189 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T01:16:17.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="6uQwgvH2sU8ifN9bSRd0" version="16.4.6" type="github">
-  <diagram id="B6TF_aO2CuPeKaEAGyWB" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-01-25T02:33:23.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GGi4v0kA3NBElfyfmRuN" version="16.4.6" type="github" pages="6">
+  <diagram id="B6TF_aO2CuPeKaEAGyWB" name="1- Mensagem Olá Mundo">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-1" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que exiba uma mensagem na tela.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensagem: &quot;Olá mundo!&quot;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-1" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que exiba uma mensagem na tela.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensagem: &quot;Olá mundo!&quot;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="10" width="640" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1uXAEtVseYAYpTEKpJ-3" target="_H1uXAEtVseYAYpTEKpJ-5">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_H1uXAEtVseYAYpTEKpJ-3" target="_H1uXAEtVseYAYpTEKpJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-3" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-3" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="364" y="490" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1uXAEtVseYAYpTEKpJ-5" target="_H1uXAEtVseYAYpTEKpJ-4">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_H1uXAEtVseYAYpTEKpJ-5" target="_H1uXAEtVseYAYpTEKpJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-5" value="OLÁ MUNDO!!!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-5" value="OLÁ MUNDO!!!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="307" y="300" width="214" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JDGp5WUjuU1TpxI9g12E" name="2- Exibir Nome e Idade">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QodJJHQrNt7WwlpS3ii8-0" />
+        <mxCell id="QodJJHQrNt7WwlpS3ii8-1" parent="QodJJHQrNt7WwlpS3ii8-0" />
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte seu nome, sua idade e exiba na tela.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá Seu_Nome, você tem Sua_Idade&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry y="10" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-2" target="LvdCcYKzBbPgzANT6wYW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-2" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry x="364" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-3" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry x="364" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-6" target="LvdCcYKzBbPgzANT6wYW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-6" value="NOME&lt;br&gt;Qual é o seu Nome?" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry x="316" y="320" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-8" target="LvdCcYKzBbPgzANT6wYW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-8" value="IDADE&lt;br&gt;Qual é sua Idade?" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry x="316" y="450" width="196" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-10" target="LvdCcYKzBbPgzANT6wYW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvdCcYKzBbPgzANT6wYW-10" value="Olá + NOME +, você tem IDADE anos.." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="QodJJHQrNt7WwlpS3ii8-1">
+          <mxGeometry x="287.5" y="585" width="253" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Oud89_AoGpW6uRgabADo" name="3- Ler Notas e Exibir Média">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="T5cML9mO9eUKZRbZ2LND-0" />
+        <mxCell id="T5cML9mO9eUKZRbZ2LND-1" parent="T5cML9mO9eUKZRbZ2LND-0" />
+        <mxCell id="3TYvcrYscuL129PSnY_F-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1, N2 e N3 e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry y="10" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-1" target="3TYvcrYscuL129PSnY_F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-2" target="3TYvcrYscuL129PSnY_F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-2" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-3" target="3TYvcrYscuL129PSnY_F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-3" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-4" target="3TYvcrYscuL129PSnY_F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-4" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-5" target="3TYvcrYscuL129PSnY_F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-5" value="MÉDIA&lt;br&gt;(N1 + N2 + N3)/3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="351" y="490" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-6" target="vSs4orE_DrB0r0vorL5x-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TYvcrYscuL129PSnY_F-6" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="306" y="600" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vSs4orE_DrB0r0vorL5x-0" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1(0,3), N2(0,2) e N3(0,5) e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry y="840" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-2" target="6r_YK1FSbmUGa0QlVbPU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-2" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-3" target="6r_YK1FSbmUGa0QlVbPU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-3" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="1050" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-4" target="6r_YK1FSbmUGa0QlVbPU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-4" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="1230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-5" target="6r_YK1FSbmUGa0QlVbPU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-5" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="1140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-7" target="6r_YK1FSbmUGa0QlVbPU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-7" value="MÉDIA&lt;br&gt;(N1 * 03) + (N2 * 0,2) + (N3 * 0,5)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="299" y="1320" width="229" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-9" target="6r_YK1FSbmUGa0QlVbPU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-9" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="306" y="1430" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-10" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="364" y="1540" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vpyj79EYcOtt5V9c8ifo" name="4- Calcular IMC">
+    <mxGraphModel dx="1550" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mE4Gth7Ov7WA8QAadiiC-0" />
+        <mxCell id="mE4Gth7Ov7WA8QAadiiC-1" parent="mE4Gth7Ov7WA8QAadiiC-0" />
+        <mxCell id="H3JW0yiKaQDurWc1rgac-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que pergunte sua ALTURA&amp;nbsp; e seu PESO e exiba na tela o valor numérico do seu IMC.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fórmula: IMC = Peso + (Altura * Altura).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exemplo: IMC = 80kg + (1,80m *1,80m) = 24,69kg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, seu IMC foi de&amp;nbsp; seu_imc.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-810" y="-1150" width="640" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t1FbA_1sYepQQkb8njjS" name="5- Salario FInal">
+    <mxGraphModel dx="643" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gxGs8vToxrvCAABo9FLY-0" />
+        <mxCell id="gxGs8vToxrvCAABo9FLY-1" parent="gxGs8vToxrvCAABo9FLY-0" />
+        <mxCell id="V6dPEW5aIePh5BSXEEvQ-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que calcule a comissão de vendas de um vendedor. Sempre o vendedor terá 0,9% de comissão sobre o valor do produto vendido. No final exibir o salário atual desse vendedor , incluindo as comissões dos produto vendido e o salario que será fixo de R$ 1.200,10.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: O programa sempre&amp;nbsp; perguntara o valor de 3 produtos. COLOCAR VALOR R$ 0,00 caso não queira preencher mais com produtos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TELA: OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry y="20" width="640" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NnTvs_7GEA28Fa9DxohS" name="6- Calcular preço combustivel">
+    <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ICVnM5piTT76Gif2TwxX-0" />
+        <mxCell id="ICVnM5piTT76Gif2TwxX-1" parent="ICVnM5piTT76Gif2TwxX-0" />
+        <mxCell id="ICVnM5piTT76Gif2TwxX-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que mostre qual combustível compensa abastecer. Ler preço gasolina, ler preço etanol e mostrar o resultado dos combustíveis com o comparativo&amp;nbsp; .&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: multiplicar o valor da gasolina por 0,7 e comparar com o do etanol — que deve ser menor que o resultado da operação para valer a pena. Então, se a gasolina está R$ 4,00, o preço máximo que deve ser pago pelo etanol é R$ 2,80.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, preco_gasolina | preco_alcool | INDICADOR GASOLINA: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-810" y="-1150" width="770" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
