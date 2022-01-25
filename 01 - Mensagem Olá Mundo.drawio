@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T00:51:32.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VxlqeGu1LfESnWwSTMvY" version="16.4.6" type="github"><diagram id="B6TF_aO2CuPeKaEAGyWB" name="Page-1">ddHNEoIgEADgp+Gu0O/ZrC6dPHRmZBNm0GWQRuvp0wEzsi4MfOwCuxCW1f3JciMvKEATmoiesAOhdEe3wzjCw8NqvfdQWSU8pTMU6gkBk6B3JaCNAh2idsrEWGLTQOki49ZiF4fdUMe3Gl7BAoqS66VelXDyq6zRz6AqOd2cbkJ9NZ+CQyWt5AK7D2I5YZlFdH5W9xnosXdTX3ze8c/u+2EWGvcjYZjMZw+L6INY/gI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-25T01:16:17.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="6uQwgvH2sU8ifN9bSRd0" version="16.4.6" type="github">
+  <diagram id="B6TF_aO2CuPeKaEAGyWB" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-1" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que exiba uma mensagem na tela.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensagem: &quot;Olá mundo!&quot;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="10" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1uXAEtVseYAYpTEKpJ-3" target="_H1uXAEtVseYAYpTEKpJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-3" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_H1uXAEtVseYAYpTEKpJ-5" target="_H1uXAEtVseYAYpTEKpJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-5" value="OLÁ MUNDO!!!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="307" y="300" width="214" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
