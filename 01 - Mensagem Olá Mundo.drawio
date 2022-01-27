@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T02:33:23.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GGi4v0kA3NBElfyfmRuN" version="16.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-27T00:27:04.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="z1RYpu6itQCUlMyiS_-5" version="16.4.6" type="github" pages="7">
   <diagram id="B6TF_aO2CuPeKaEAGyWB" name="1- Mensagem Olá Mundo">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,122 +68,300 @@
       <root>
         <mxCell id="T5cML9mO9eUKZRbZ2LND-0" />
         <mxCell id="T5cML9mO9eUKZRbZ2LND-1" parent="T5cML9mO9eUKZRbZ2LND-0" />
-        <mxCell id="3TYvcrYscuL129PSnY_F-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1, N2 e N3 e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1, N2 e N3 e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry y="10" width="640" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-1" target="3TYvcrYscuL129PSnY_F-2">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-1" target="3TYvcrYscuL129PSnY_F-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-2" target="3TYvcrYscuL129PSnY_F-4">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-2" target="3TYvcrYscuL129PSnY_F-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-2" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-2" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-3" target="3TYvcrYscuL129PSnY_F-5">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-3" target="3TYvcrYscuL129PSnY_F-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-3" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-3" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="400" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-4" target="3TYvcrYscuL129PSnY_F-3">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-4" target="3TYvcrYscuL129PSnY_F-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-4" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-4" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-5" target="3TYvcrYscuL129PSnY_F-6">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-5" target="3TYvcrYscuL129PSnY_F-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-5" value="MÉDIA&lt;br&gt;(N1 + N2 + N3)/3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-5" value="MÉDIA&lt;br&gt;(N1 + N2 + N3)/3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="351" y="490" width="126" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-6" target="vSs4orE_DrB0r0vorL5x-0">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-6" target="vSs4orE_DrB0r0vorL5x-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-6" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-6" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="306" y="600" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-0" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="vSs4orE_DrB0r0vorL5x-0" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="710" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1(0,3), N2(0,2) e N3(0,5) e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1(0,3), N2(0,2) e N3(0,5) e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry y="840" width="640" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-2" target="6r_YK1FSbmUGa0QlVbPU-3">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-2" target="6r_YK1FSbmUGa0QlVbPU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-2" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-2" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="950" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-3" target="6r_YK1FSbmUGa0QlVbPU-5">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-3" target="6r_YK1FSbmUGa0QlVbPU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-3" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-3" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="1050" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-4" target="6r_YK1FSbmUGa0QlVbPU-7">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-4" target="6r_YK1FSbmUGa0QlVbPU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-4" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-4" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="1230" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-5" target="6r_YK1FSbmUGa0QlVbPU-4">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-5" target="6r_YK1FSbmUGa0QlVbPU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-5" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-5" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="1140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-7" target="6r_YK1FSbmUGa0QlVbPU-9">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-7" target="6r_YK1FSbmUGa0QlVbPU-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-7" value="MÉDIA&lt;br&gt;(N1 * 03) + (N2 * 0,2) + (N3 * 0,5)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-7" value="MÉDIA&lt;br&gt;(N1 * 03) + (N2 * 0,2) + (N3 * 0,5)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="299" y="1320" width="229" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-9" target="6r_YK1FSbmUGa0QlVbPU-10">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-9" target="6r_YK1FSbmUGa0QlVbPU-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-9" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-9" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="306" y="1430" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-10" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-10" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="1540" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Vpyj79EYcOtt5V9c8ifo" name="4- Calcular IMC">
-    <mxGraphModel dx="1550" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mE4Gth7Ov7WA8QAadiiC-0" />
         <mxCell id="mE4Gth7Ov7WA8QAadiiC-1" parent="mE4Gth7Ov7WA8QAadiiC-0" />
-        <mxCell id="H3JW0yiKaQDurWc1rgac-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que pergunte sua ALTURA&amp;nbsp; e seu PESO e exiba na tela o valor numérico do seu IMC.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fórmula: IMC = Peso + (Altura * Altura).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exemplo: IMC = 80kg + (1,80m *1,80m) = 24,69kg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, seu IMC foi de&amp;nbsp; seu_imc.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+        <mxCell id="H3JW0yiKaQDurWc1rgac-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que pergunte sua ALTURA&amp;nbsp; e seu PESO e exiba na tela o valor numérico do seu IMC.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fórmula: IMC = Peso + (Altura * Altura).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exemplo: IMC = 80kg + (1,80m *1,80m) = 24,69kg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, seu IMC foi de&amp;nbsp; seu_imc.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
           <mxGeometry x="-810" y="-1150" width="640" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-0" target="v6qg2rETzZcGzmhWYGjz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6qg2rETzZcGzmhWYGjz-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-463" y="-960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-1" target="5Prgf4KiVSyscAf2ycT1-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6qg2rETzZcGzmhWYGjz-1" value="PESO" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-463" y="-860" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-0" target="5Prgf4KiVSyscAf2ycT1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-0" value="ALTURA" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-463" y="-750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-1" target="5Prgf4KiVSyscAf2ycT1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-1" value="seu_imc&lt;br&gt;PESO + (ALTURA*ALTURA)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-499.5" y="-640" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-4" target="5Prgf4KiVSyscAf2ycT1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-4" value="Olá seu IMC seu_imc é de" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-540" y="-520" width="253" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-5" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
+          <mxGeometry x="-463" y="-370" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="t1FbA_1sYepQQkb8njjS" name="5- Salario FInal">
-    <mxGraphModel dx="643" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gxGs8vToxrvCAABo9FLY-0" />
         <mxCell id="gxGs8vToxrvCAABo9FLY-1" parent="gxGs8vToxrvCAABo9FLY-0" />
-        <mxCell id="V6dPEW5aIePh5BSXEEvQ-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que calcule a comissão de vendas de um vendedor. Sempre o vendedor terá 0,9% de comissão sobre o valor do produto vendido. No final exibir o salário atual desse vendedor , incluindo as comissões dos produto vendido e o salario que será fixo de R$ 1.200,10.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: O programa sempre&amp;nbsp; perguntara o valor de 3 produtos. COLOCAR VALOR R$ 0,00 caso não queira preencher mais com produtos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TELA: OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="V6dPEW5aIePh5BSXEEvQ-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que calcule a comissão de vendas de um vendedor. Sempre o vendedor terá 0,9% de comissão sobre o valor do; vendido. No final exibir o salário atual desse vendedor , incluindo as comissões dos produto vendido e o salario que será fixo de R$ 1.200,10.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: O programa sempre&amp;nbsp; perguntara o valor de 3 produtos. COLOCAR VALOR R$ 0,00 caso não queira preencher mais com produtos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TELA: OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry y="20" width="640" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="305.5" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-1" target="XW45Ko0Rc4ApRg5AUH1k-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-1" value="&lt;span style=&quot;text-align: left&quot;&gt;OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="140" y="820" width="431" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-0" target="hdc1ZzXBhYhRAWoRMvvE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355.5" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-3" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="305.5" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-4" target="XW45Ko0Rc4ApRg5AUH1k-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-4" value="seu_salario&lt;br&gt;(COMISSAO * PRODUTO 1 * PRODUTO2 * PRODUTO 3)&amp;nbsp; + R$ 1.200,00" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="144.25" y="716" width="422.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-0" target="hdc1ZzXBhYhRAWoRMvvE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-0" value="&lt;span&gt;PRODUTO 2&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="297.5" y="475" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-1" target="hdc1ZzXBhYhRAWoRMvvE-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PRODUTO 1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="298" y="360" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-5" target="XW45Ko0Rc4ApRg5AUH1k-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-5" value="PRODUTO 3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+          <mxGeometry x="297.5" y="600" width="116" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NnTvs_7GEA28Fa9DxohS" name="6- Calcular preço combustivel">
-    <mxGraphModel dx="1695" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2811" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ICVnM5piTT76Gif2TwxX-0" />
         <mxCell id="ICVnM5piTT76Gif2TwxX-1" parent="ICVnM5piTT76Gif2TwxX-0" />
-        <mxCell id="ICVnM5piTT76Gif2TwxX-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que mostre qual combustível compensa abastecer. Ler preço gasolina, ler preço etanol e mostrar o resultado dos combustíveis com o comparativo&amp;nbsp; .&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: multiplicar o valor da gasolina por 0,7 e comparar com o do etanol — que deve ser menor que o resultado da operação para valer a pena. Então, se a gasolina está R$ 4,00, o preço máximo que deve ser pago pelo etanol é R$ 2,80.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, preco_gasolina | preco_alcool | INDICADOR GASOLINA: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="ICVnM5piTT76Gif2TwxX-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que mostre qual combustível compensa abastecer. Ler preço gasolina, ler preço etanol e mostrar o resultado dos combustíveis com o comparativo&amp;nbsp; .&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: multiplicar o valor da gasolina por 0,7 e comparar com o do etanol — que deve ser menor que o resultado da operação para valer a pena. Então, se a gasolina está R$ 4,00, o preço máximo que deve ser pago pelo etanol é R$ 2,80.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, preco_gasolina | preco_alcool | INDICADOR GASOLINA: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-810" y="-1150" width="770" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-0" target="aM8nad95WdxDIKl8rTPp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-460" y="-950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-1" target="aM8nad95WdxDIKl8rTPp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-1" value="GASOLINA&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-481.5" y="-830" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-2" target="aM8nad95WdxDIKl8rTPp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-2" value="GASOLINA * 0,7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-497.5" y="-590" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-3" target="aM8nad95WdxDIKl8rTPp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-3" value="&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Olá, preco_alcool | INDICADOR ETANOL: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-900" y="-300" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-5" target="aM8nad95WdxDIKl8rTPp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-5" target="aM8nad95WdxDIKl8rTPp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-5" value="&amp;lt; que valor ETANOL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-480" y="-485" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-6" target="aM8nad95WdxDIKl8rTPp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-6" value="0,7" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-481.5" y="-710" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-15" target="aM8nad95WdxDIKl8rTPp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-15" value="GASOLINA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-290" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-17" target="aM8nad95WdxDIKl8rTPp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-17" value="ETANOL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-650" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-21" target="aM8nad95WdxDIKl8rTPp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-21" value="&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;Olá, preco_gasolina | INDICADOR GASOLINA: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-280" y="-300" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aM8nad95WdxDIKl8rTPp-25" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+          <mxGeometry x="-463" y="-200" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TMfJaD_gDj15Kd8Ltrsn" name="7- Salario Atual">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-0" />
+        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-1" parent="gGbFWkZ1JgrfF2qZSLSw-0" />
+        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;/div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;06 - Criar um programa que pergunte seu SALÁRIO e aplique 15% de aumento no SALÁRIO FINAL.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;FÓRMULA: (Salário * 15%) + Salário.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tela: Olá, seu salário esse mês foi de salário_final.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry y="10" width="590" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-0" target="W1SsLgIWUBxx9u8Tx9Lk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-0" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-1" target="W1SsLgIWUBxx9u8Tx9Lk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-1" value="SALARIO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="320" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-2" target="W1SsLgIWUBxx9u8Tx9Lk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-2" value="AUMENTO&lt;br&gt;15%" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-3" target="W1SsLgIWUBxx9u8Tx9Lk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-3" value="SALARIO_FINAL&lt;br&gt;(SALARIO * AUMENTO) + SALARIO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="265" y="570" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-4" target="W1SsLgIWUBxx9u8Tx9Lk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Olá, seu salário esse mês foi de salário_final.&lt;/span&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="215" y="690" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-7" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
+          <mxGeometry x="330" y="830" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
