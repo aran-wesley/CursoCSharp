@@ -1,81 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T01:05:25.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WkMXr8DLSjzpy-m5pCzR" version="16.4.6" type="github" pages="7">
-  <diagram id="B6TF_aO2CuPeKaEAGyWB" name="1- Mensagem Olá Mundo">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-02-01T02:21:54.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="c2jGhRhde12QBvQcDW4l" version="16.4.6" type="github" pages="6">
+  <diagram id="B6TF_aO2CuPeKaEAGyWB" name="1- Balada">
+    <mxGraphModel dx="1935" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-1" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que exiba uma mensagem na tela.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensagem: &quot;Olá mundo!&quot;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="10" width="640" height="120" as="geometry" />
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-1" value="&lt;h1&gt;Aula 3 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte o nome e a idade do cliente. Retorne na tela a seguinte mensagem.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mensagem 1: &quot;nome_cliente&quot;, olá &quot;ENTRADA LIBERADA!&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Mensagem 2:&amp;nbsp;&lt;span&gt;&quot;nome_cliente&quot;, olá &quot;ENTRADA NÃO LIBERADA!&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;REGRA: Se o cliente tiver idade menor que 18 anos, mostrar MENSAGEM 1. Caso seja maior, mostrar MENSAGEM 2&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="10" width="700" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_H1uXAEtVseYAYpTEKpJ-3" target="_H1uXAEtVseYAYpTEKpJ-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_H1uXAEtVseYAYpTEKpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_H1uXAEtVseYAYpTEKpJ-3" target="rTe_Mv2Zp5vVH85Uooyp-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_H1uXAEtVseYAYpTEKpJ-3" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_H1uXAEtVseYAYpTEKpJ-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="364" y="490" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="750" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_H1uXAEtVseYAYpTEKpJ-5" target="_H1uXAEtVseYAYpTEKpJ-4" edge="1">
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-1" target="rTe_Mv2Zp5vVH85Uooyp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_H1uXAEtVseYAYpTEKpJ-5" value="OLÁ MUNDO!!!" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="307" y="300" width="214" height="60" as="geometry" />
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-1" value="NOME" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="JDGp5WUjuU1TpxI9g12E" name="2- Exibir Nome e Idade">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="QodJJHQrNt7WwlpS3ii8-0" />
-        <mxCell id="QodJJHQrNt7WwlpS3ii8-1" parent="QodJJHQrNt7WwlpS3ii8-0" />
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte seu nome, sua idade e exiba na tela.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá Seu_Nome, você tem Sua_Idade&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry y="10" width="640" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-2" target="LvdCcYKzBbPgzANT6wYW-6" edge="1">
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-2" target="rTe_Mv2Zp5vVH85Uooyp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-2" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry x="364" y="230" width="100" height="60" as="geometry" />
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-2" value="IDADE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-3" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry x="364" y="710" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-6" target="LvdCcYKzBbPgzANT6wYW-8" edge="1">
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-8" value="NÃO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-5" target="rTe_Mv2Zp5vVH85Uooyp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-6" value="NOME&lt;br&gt;Qual é o seu Nome?" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry x="316" y="320" width="196" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-8" target="LvdCcYKzBbPgzANT6wYW-10" edge="1">
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-9" value="SIM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-5" target="rTe_Mv2Zp5vVH85Uooyp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-8" value="IDADE&lt;br&gt;Qual é sua Idade?" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry x="316" y="450" width="196" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QodJJHQrNt7WwlpS3ii8-1" source="LvdCcYKzBbPgzANT6wYW-10" target="LvdCcYKzBbPgzANT6wYW-3" edge="1">
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-5" target="rTe_Mv2Zp5vVH85Uooyp-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LvdCcYKzBbPgzANT6wYW-10" value="Olá + NOME +, você tem IDADE anos.." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="QodJJHQrNt7WwlpS3ii8-1" vertex="1">
-          <mxGeometry x="287.5" y="585" width="253" height="60" as="geometry" />
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-5" value="IDADE &amp;gt;=18&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="470" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-6" target="rTe_Mv2Zp5vVH85Uooyp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&quot;nome_cliente&quot;, olá &quot;ENTRADA LIBERADA!&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="605" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-7" target="rTe_Mv2Zp5vVH85Uooyp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-7" value="&lt;span style=&quot;text-align: left&quot;&gt;&quot;nome_cliente&quot;, olá &quot;ENTRADA NÃO LIBERADA!&quot;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="605" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rTe_Mv2Zp5vVH85Uooyp-10" target="_H1uXAEtVseYAYpTEKpJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rTe_Mv2Zp5vVH85Uooyp-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="398" y="620" width="31" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Oud89_AoGpW6uRgabADo" name="3- Ler Notas e Exibir Média">
-    <mxGraphModel dx="1320" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="T5cML9mO9eUKZRbZ2LND-0" />
         <mxCell id="T5cML9mO9eUKZRbZ2LND-1" parent="T5cML9mO9eUKZRbZ2LND-0" />
-        <mxCell id="3TYvcrYscuL129PSnY_F-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1, N2 e N3 e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry y="10" width="640" height="120" as="geometry" />
+        <mxCell id="3TYvcrYscuL129PSnY_F-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1, N2 e N3 e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de sua_media e voce esta situacao_aluno.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;REGRA: O aluno sera APROVADO quando a media for maior ou igual a 7. Caso seja menor, o aluno seja reprovado.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
+          <mxGeometry y="10" width="640" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vSs4orE_DrB0r0vorL5x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-1" target="3TYvcrYscuL129PSnY_F-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TYvcrYscuL129PSnY_F-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSs4orE_DrB0r0vorL5x-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-2" target="3TYvcrYscuL129PSnY_F-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,106 +95,133 @@
         <mxCell id="3TYvcrYscuL129PSnY_F-4" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="364" y="310" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-5" target="3TYvcrYscuL129PSnY_F-6" edge="1">
+        <mxCell id="JecJA4MsjT7foriyjFWI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-5" target="JecJA4MsjT7foriyjFWI-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-5" value="MÉDIA&lt;br&gt;(N1 + N2 + N3)/3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
+        <mxCell id="3TYvcrYscuL129PSnY_F-5" value="sua_media&lt;br&gt;(N1 + N2 + N3)/3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
           <mxGeometry x="351" y="490" width="126" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vSs4orE_DrB0r0vorL5x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="3TYvcrYscuL129PSnY_F-6" target="vSs4orE_DrB0r0vorL5x-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3TYvcrYscuL129PSnY_F-6" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="306" y="600" width="216" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vSs4orE_DrB0r0vorL5x-0" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="374.5" y="850" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r_YK1FSbmUGa0QlVbPU-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1(0,3), N2(0,2) e N3(0,5) e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de + MÉDIA&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry y="840" width="640" height="120" as="geometry" />
+        <mxCell id="6r_YK1FSbmUGa0QlVbPU-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que pergunte N1(0,3), N2(0,2) e N3(0,5) e exiba na tela a MÉDIA aritimética.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela:&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;Olá, sua média é de sua_media e voce esta situacao_aluno.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center&quot;&gt;REGRA: APROVADO &amp;gt;= 7 | REPROVADO &amp;lt;= 4 | RECUPERAÇÃO Nota entre APROVADO e REPRVADO&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
+          <mxGeometry y="950" width="640" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-2" target="6r_YK1FSbmUGa0QlVbPU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-2" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="950" width="100" height="60" as="geometry" />
+          <mxGeometry x="339" y="1270" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-3" target="6r_YK1FSbmUGa0QlVbPU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-3" value="N1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="1050" width="100" height="60" as="geometry" />
+          <mxGeometry x="338.5" y="1370" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-4" target="6r_YK1FSbmUGa0QlVbPU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-4" value="N3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="1230" width="100" height="60" as="geometry" />
+          <mxGeometry x="339" y="1560" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-5" target="6r_YK1FSbmUGa0QlVbPU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-5" value="N2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="1140" width="100" height="60" as="geometry" />
+          <mxGeometry x="339" y="1480" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-7" target="6r_YK1FSbmUGa0QlVbPU-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-7" value="MÉDIA&lt;br&gt;(N1 * 03) + (N2 * 0,2) + (N3 * 0,5)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="299" y="1320" width="229" height="40" as="geometry" />
+          <mxGeometry x="274.5" y="1660" width="229" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="T5cML9mO9eUKZRbZ2LND-1" source="6r_YK1FSbmUGa0QlVbPU-9" target="6r_YK1FSbmUGa0QlVbPU-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-9" value="Olá, sua média é de + MÉDIA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="306" y="1430" width="216" height="60" as="geometry" />
+          <mxGeometry x="280.5" y="1740" width="216" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r_YK1FSbmUGa0QlVbPU-10" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="T5cML9mO9eUKZRbZ2LND-1" vertex="1">
-          <mxGeometry x="364" y="1540" width="100" height="60" as="geometry" />
+          <mxGeometry x="338.5" y="1850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-2" value="NÃO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="JecJA4MsjT7foriyjFWI-0" target="U1YjrLo3wPhhPBdGvv9F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-4" value="SIM" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="JecJA4MsjT7foriyjFWI-0" target="U1YjrLo3wPhhPBdGvv9F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JecJA4MsjT7foriyjFWI-0" value="sua_media &amp;gt;= 7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="331" y="570" width="166" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3i-_yITVl-jYwSTMjs4e-1" target="vSs4orE_DrB0r0vorL5x-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3i-_yITVl-jYwSTMjs4e-1" value="Olá, sua média é de sua_media e voce esta situacao_aluno" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="274.5" y="760" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="3i-_yITVl-jYwSTMjs4e-4" target="3i-_yITVl-jYwSTMjs4e-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3i-_yITVl-jYwSTMjs4e-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="414" y="710" width="21" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="U1YjrLo3wPhhPBdGvv9F-1" target="3i-_yITVl-jYwSTMjs4e-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-1" value="sua_situacao&lt;br&gt;REPROVADO" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="180" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="T5cML9mO9eUKZRbZ2LND-1" source="U1YjrLo3wPhhPBdGvv9F-3" target="3i-_yITVl-jYwSTMjs4e-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U1YjrLo3wPhhPBdGvv9F-3" value="sua_situacao&lt;br&gt;APROVADO" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="T5cML9mO9eUKZRbZ2LND-1">
+          <mxGeometry x="528" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Vpyj79EYcOtt5V9c8ifo" name="4- Calcular IMC">
-    <mxGraphModel dx="2294" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Vpyj79EYcOtt5V9c8ifo" name="Ler Altura e peso (IMC - condicional):">
+    <mxGraphModel dx="1750" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mE4Gth7Ov7WA8QAadiiC-0" />
         <mxCell id="mE4Gth7Ov7WA8QAadiiC-1" parent="mE4Gth7Ov7WA8QAadiiC-0" />
-        <mxCell id="H3JW0yiKaQDurWc1rgac-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que pergunte sua ALTURA&amp;nbsp; e seu PESO e exiba na tela o valor numérico do seu IMC.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fórmula: IMC = Peso / (Altura * Altura).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exemplo: IMC = 80kg / (1,80m *1,80m) = 24,69kg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, seu IMC foi de&amp;nbsp; seu_imc.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
-          <mxGeometry x="-810" y="-1150" width="640" height="170" as="geometry" />
+        <mxCell id="H3JW0yiKaQDurWc1rgac-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;05 - Ler Altura e peso (IMC - condicional):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aula 3 - Lógica de Programação com Fluxograma&lt;/div&gt;&lt;div&gt;Criar um programa que pergunte sua ALTURA e seu PESO e exiba na tela classificação do seu IMC.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FÓRMULA: IMC = Peso ÷ (Altura × Altura).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;EXEMPLO: IMC = 80 kg ÷ (1,80 m × 1,80 m) = 24,69 kg&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, sua classificação é de: sua_classificacao.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;REGRA:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IMC&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;				&lt;/span&gt;CLASSIFICAÇÃO&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&lt;/span&gt;OBESIDADE (GRAU)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MENOR QUE 18,5&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;&lt;/span&gt;MAGREZA &lt;span&gt;		&lt;/span&gt; &lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ENTRE 18,5 E 24,9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&lt;/span&gt;NORMAL &lt;span&gt;			&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ENTRE 25,0 E 29,9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SOBREPESO &lt;span&gt;		&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;I&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ENTRE 30,0 E 39,9&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;OBESIDADE &lt;span&gt;			&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;II&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAIOR QUE 40,0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;&lt;/span&gt;OBESIDADE GRAVE &lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;&lt;/span&gt;III&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-810" y="-1150" width="640" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-0" target="v6qg2rETzZcGzmhWYGjz-1">
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-0" target="v6qg2rETzZcGzmhWYGjz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v6qg2rETzZcGzmhWYGjz-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-463" y="-960" width="100" height="60" as="geometry" />
+        <mxCell id="v6qg2rETzZcGzmhWYGjz-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-463" y="-670" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-1" target="5Prgf4KiVSyscAf2ycT1-0">
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE4Gth7Ov7WA8QAadiiC-1" source="v6qg2rETzZcGzmhWYGjz-1" target="5Prgf4KiVSyscAf2ycT1-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v6qg2rETzZcGzmhWYGjz-1" value="PESO" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-463" y="-860" width="100" height="60" as="geometry" />
+        <mxCell id="v6qg2rETzZcGzmhWYGjz-1" value="PESO" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-463" y="-570" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-0" target="5Prgf4KiVSyscAf2ycT1-1">
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-0" target="5Prgf4KiVSyscAf2ycT1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-0" value="ALTURA" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-463" y="-750" width="100" height="60" as="geometry" />
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-0" value="ALTURA" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-463" y="-460" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-1" target="5Prgf4KiVSyscAf2ycT1-4">
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-1" target="5Prgf4KiVSyscAf2ycT1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-1" value="seu_imc&lt;br&gt;PESO / (ALTURA*ALTURA)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-499.5" y="-640" width="173" height="40" as="geometry" />
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-1" value="seu_imc&lt;br&gt;PESO / (ALTURA*ALTURA)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-499.5" y="-350" width="173" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-4" target="5Prgf4KiVSyscAf2ycT1-5">
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mE4Gth7Ov7WA8QAadiiC-1" source="5Prgf4KiVSyscAf2ycT1-4" target="5Prgf4KiVSyscAf2ycT1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-4" value="Olá seu IMC seu_imc é de" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-540" y="-520" width="253" height="60" as="geometry" />
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-4" value="Olá seu IMC seu_imc é de" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-540" y="-230" width="253" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Prgf4KiVSyscAf2ycT1-5" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="mE4Gth7Ov7WA8QAadiiC-1">
-          <mxGeometry x="-463" y="-370" width="100" height="60" as="geometry" />
+        <mxCell id="5Prgf4KiVSyscAf2ycT1-5" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="mE4Gth7Ov7WA8QAadiiC-1" vertex="1">
+          <mxGeometry x="-463" y="-80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
