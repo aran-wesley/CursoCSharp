@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T02:21:54.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="c2jGhRhde12QBvQcDW4l" version="16.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-01T02:56:10.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ku2UWyR5UjmAsUwat3Ja" version="16.4.6" type="github" pages="5">
   <diagram id="B6TF_aO2CuPeKaEAGyWB" name="1- Balada">
     <mxGraphModel dx="1935" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,156 +227,108 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t1FbA_1sYepQQkb8njjS" name="5- Salario FInal">
-    <mxGraphModel dx="1257" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gxGs8vToxrvCAABo9FLY-0" />
         <mxCell id="gxGs8vToxrvCAABo9FLY-1" parent="gxGs8vToxrvCAABo9FLY-0" />
-        <mxCell id="V6dPEW5aIePh5BSXEEvQ-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;Criar um programa que calcule a comissão de vendas de um vendedor. Sempre o vendedor terá 0,9% de comissão sobre o valor do; vendido. No final exibir o salário atual desse vendedor , incluindo as comissões dos produto vendido e o salario que será fixo de R$ 1.200,10.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: O programa sempre&amp;nbsp; perguntara o valor de 3 produtos. COLOCAR VALOR R$ 0,00 caso não queira preencher mais com produtos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TELA: OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
-          <mxGeometry y="20" width="640" height="190" as="geometry" />
+        <mxCell id="V6dPEW5aIePh5BSXEEvQ-0" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Aula 3 - Lógica de Programação com Fluxograma&lt;/div&gt;&lt;div&gt;Criar um programa que calcule a comissão de vendas de um vendedor. Sempre o vendedor terá 0,9% de comissão sobre o valor do produto vendido. No final exibir o salário atual desse vendedor, incluindo as comissões dos produtos vendidos e o salário que será fixo de R$ 1.200,10.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: O programa sempre perguntará o valor de 3 produtos. COLOCAR VALOR R$ 0,00 caso não queira preencher mais com produtos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, seu salário esse mês foi de seu_salário e sua comissão foi de sua_comissão. Totalizando em salario_+_comissão.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;REGRA: Sempre verificar se a COMISSÃO do vendedor é maior que o SALÁRIO FIXO do mesmo. Caso seja maior notificar na tela a seguinte mensagem &quot;Parabéns, você receberá uma comissão maior que seu salário.&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Antes de finalizar a aplicação notificar em TELA quantos PRODUTOS estão com valores ZERADOS(0).&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
+          <mxGeometry y="20" width="640" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
-          <mxGeometry x="305.5" y="240" width="100" height="60" as="geometry" />
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
+          <mxGeometry x="306" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-1" target="XW45Ko0Rc4ApRg5AUH1k-3">
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-1" target="XW45Ko0Rc4ApRg5AUH1k-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-1" value="&lt;span style=&quot;text-align: left&quot;&gt;OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-1" value="&lt;span style=&quot;text-align: left&quot;&gt;OLÀ, seu salario esse mes foi de seu_salario e sua comissão foi de sua_comissao. Totalizando em salario_+_comissão.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry x="139.99" y="894" width="431" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-0" target="hdc1ZzXBhYhRAWoRMvvE-1">
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-0" target="hdc1ZzXBhYhRAWoRMvvE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355.5" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-3" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-3" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry x="305.49" y="1014" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-o6414uL9HzVYbSPkoEp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-4" target="XW45Ko0Rc4ApRg5AUH1k-1">
+        <mxCell id="-o6414uL9HzVYbSPkoEp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="XW45Ko0Rc4ApRg5AUH1k-4" target="XW45Ko0Rc4ApRg5AUH1k-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-4" value="seu_salario&lt;br&gt;sua_comissao&amp;nbsp; + R$ 1.200,00" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="XW45Ko0Rc4ApRg5AUH1k-4" value="seu_salario&lt;br&gt;sua_comissao&amp;nbsp; + R$ 1.200,00" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry x="117.61000000000001" y="810" width="475.75" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-0" target="hdc1ZzXBhYhRAWoRMvvE-5">
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-0" target="hdc1ZzXBhYhRAWoRMvvE-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-0" value="&lt;span&gt;PRODUTO 2&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
-          <mxGeometry x="297.5" y="475" width="116" height="60" as="geometry" />
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-0" value="&lt;span&gt;PRODUTO 2&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
+          <mxGeometry x="298" y="520" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-1" target="hdc1ZzXBhYhRAWoRMvvE-0">
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-1" target="hdc1ZzXBhYhRAWoRMvvE-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PRODUTO 1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
-          <mxGeometry x="298" y="360" width="116" height="60" as="geometry" />
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PRODUTO 1&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
+          <mxGeometry x="298" y="430" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-o6414uL9HzVYbSPkoEp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-5" target="-o6414uL9HzVYbSPkoEp-5">
+        <mxCell id="-o6414uL9HzVYbSPkoEp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="hdc1ZzXBhYhRAWoRMvvE-5" target="-o6414uL9HzVYbSPkoEp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-5" value="PRODUTO 3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="hdc1ZzXBhYhRAWoRMvvE-5" value="PRODUTO 3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry x="297.5" y="600" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-o6414uL9HzVYbSPkoEp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxGs8vToxrvCAABo9FLY-1" source="-o6414uL9HzVYbSPkoEp-5" target="XW45Ko0Rc4ApRg5AUH1k-4">
+        <mxCell id="-o6414uL9HzVYbSPkoEp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gxGs8vToxrvCAABo9FLY-1" source="-o6414uL9HzVYbSPkoEp-5" target="XW45Ko0Rc4ApRg5AUH1k-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-o6414uL9HzVYbSPkoEp-5" value="sua_comissao&lt;br&gt;(PRODUTO 1 * 0,9) + (PRODUTO 2 *0,9) + (PRODUTO 3 * 0,9)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="gxGs8vToxrvCAABo9FLY-1">
+        <mxCell id="-o6414uL9HzVYbSPkoEp-5" value="sua_comissao&lt;br&gt;(PRODUTO 1 * 0,9) + (PRODUTO 2 *0,9) + (PRODUTO 3 * 0,9)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="gxGs8vToxrvCAABo9FLY-1" vertex="1">
           <mxGeometry x="117.61" y="710" width="475.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NnTvs_7GEA28Fa9DxohS" name="6- Calcular preço combustivel">
-    <mxGraphModel dx="1931" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1935" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ICVnM5piTT76Gif2TwxX-0" />
         <mxCell id="ICVnM5piTT76Gif2TwxX-1" parent="ICVnM5piTT76Gif2TwxX-0" />
-        <mxCell id="ICVnM5piTT76Gif2TwxX-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que mostre qual combustível compensa abastecer. Ler preço gasolina, ler preço etanol e mostrar o resultado dos combustíveis com o comparativo&amp;nbsp; .&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: multiplicar o valor da gasolina por 0,7 e comparar com o do etanol — que deve ser menor que o resultado da operação para valer a pena. Então, se a gasolina está R$ 4,00, o preço máximo que deve ser pago pelo etanol é R$ 2,80.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, preco_gasolina | preco_alcool | INDICADOR GASOLINA: seu_indicador.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
-          <mxGeometry x="-810" y="-1150" width="770" height="170" as="geometry" />
+        <mxCell id="ICVnM5piTT76Gif2TwxX-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;div&gt;Criar um programa que mostre qual combustível compensa abastecer. Ler preço gasolina, ler preço etanol e mostrar o resultado dos combustíveis com o comparativo&amp;nbsp; .&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DICA: multiplicar o valor da gasolina por 0,7 e comparar com o do etanol — que deve ser menor que o resultado da operação para valer a pena. Então, se a gasolina está R$ 4,00, o preço máximo que deve ser pago pelo etanol é R$ 2,80.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tela: Olá, preco_gasolina | preco_alcool | QUAL ABASTECER: seu_indicador.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;REGRA: Mostrar em TELA qual o combustível que compensa abastecer (GASOLINA/ETANOL).&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
+          <mxGeometry x="-810" y="-1150" width="770" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="aM8nad95WdxDIKl8rTPp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-0" target="aM8nad95WdxDIKl8rTPp-1">
+        <mxCell id="aM8nad95WdxDIKl8rTPp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-0" target="aM8nad95WdxDIKl8rTPp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aM8nad95WdxDIKl8rTPp-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="aM8nad95WdxDIKl8rTPp-0" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-460" y="-950" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-1" target="-Do8n_5y5f1CnVFvgIIA-1">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-1" target="-Do8n_5y5f1CnVFvgIIA-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aM8nad95WdxDIKl8rTPp-1" value="GASOLINA&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="aM8nad95WdxDIKl8rTPp-1" value="GASOLINA&amp;nbsp;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-481.5" y="-830" width="143" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM8nad95WdxDIKl8rTPp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-2" target="-Do8n_5y5f1CnVFvgIIA-6">
+        <mxCell id="aM8nad95WdxDIKl8rTPp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ICVnM5piTT76Gif2TwxX-1" source="aM8nad95WdxDIKl8rTPp-2" target="-Do8n_5y5f1CnVFvgIIA-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-410" y="-485" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM8nad95WdxDIKl8rTPp-2" value="seu_indicador&lt;br&gt;GASOLINA * 0,7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="aM8nad95WdxDIKl8rTPp-2" value="seu_indicador&lt;br&gt;GASOLINA * 0,7" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-497.5" y="-584" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="-Do8n_5y5f1CnVFvgIIA-1" target="aM8nad95WdxDIKl8rTPp-2">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ICVnM5piTT76Gif2TwxX-1" source="-Do8n_5y5f1CnVFvgIIA-1" target="aM8nad95WdxDIKl8rTPp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-408.5" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-1" value="ETANOL" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-1" value="ETANOL" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-481.5" y="-740" width="143" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-5" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-5" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-460" y="-340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ICVnM5piTT76Gif2TwxX-1" source="-Do8n_5y5f1CnVFvgIIA-6" target="-Do8n_5y5f1CnVFvgIIA-5">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ICVnM5piTT76Gif2TwxX-1" source="-Do8n_5y5f1CnVFvgIIA-6" target="-Do8n_5y5f1CnVFvgIIA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Do8n_5y5f1CnVFvgIIA-6" value="&lt;span style=&quot;text-align: left&quot;&gt;Olá, GASOLINA | ETANOL | INDICADOR GASOLINA: seu_indicador.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="ICVnM5piTT76Gif2TwxX-1">
+        <mxCell id="-Do8n_5y5f1CnVFvgIIA-6" value="&lt;span style=&quot;text-align: left&quot;&gt;Olá, GASOLINA | ETANOL | INDICADOR GASOLINA: seu_indicador.&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="ICVnM5piTT76Gif2TwxX-1" vertex="1">
           <mxGeometry x="-660" y="-480" width="500" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="TMfJaD_gDj15Kd8Ltrsn" name="7- Salario Atual">
-    <mxGraphModel dx="1104" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-0" />
-        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-1" parent="gGbFWkZ1JgrfF2qZSLSw-0" />
-        <mxCell id="gGbFWkZ1JgrfF2qZSLSw-2" value="&lt;h1&gt;Aula 2 - Lógica de Programação com Fluxograma&lt;/h1&gt;&lt;div&gt;&lt;/div&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;06 - Criar um programa que pergunte seu SALÁRIO e aplique 15% de aumento no SALÁRIO FINAL.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;FÓRMULA: (Salário * 15%) + Salário.&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tela: Olá, seu salário esse mês foi de salário_final.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry y="10" width="590" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-0" target="W1SsLgIWUBxx9u8Tx9Lk-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-0" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-1" target="mmeJL5TVO-TeHR4h76dZ-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-1" value="SALARIO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="320" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" target="W1SsLgIWUBxx9u8Tx9Lk-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="510" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-3" target="W1SsLgIWUBxx9u8Tx9Lk-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-3" value="SALARIO_FINAL&lt;br&gt;(SALARIO * AUMENTO) + SALARIO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="265" y="570" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gGbFWkZ1JgrfF2qZSLSw-1" source="W1SsLgIWUBxx9u8Tx9Lk-4" target="W1SsLgIWUBxx9u8Tx9Lk-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Olá, seu salário esse mês foi de salário_final.&lt;/span&gt;&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="215" y="690" width="330" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="W1SsLgIWUBxx9u8Tx9Lk-7" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="330" y="830" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mmeJL5TVO-TeHR4h76dZ-1" value="AUMENTO &lt;br&gt;15%" style="whiteSpace=wrap;html=1;" vertex="1" parent="gGbFWkZ1JgrfF2qZSLSw-1">
-          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
